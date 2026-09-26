@@ -3,8 +3,7 @@
 
 An interactive Power BI dashboard that analyzes hotel revenue performance across properties, tracking key hospitality metrics like RevPAR, ADR, Occupancy %, and booking trends to support data-driven revenue management decisions.
 
-![Dashboard Preview](<img width="1209" height="554" alt="Screenshot (1961)" src="https://github.com/user-attachments/assets/db9a027f-ff10-4d0b-b191-625565c9efac" />
-)
+<img width="1209" height="554" alt="Screenshot (1961)" src="https://github.com/user-attachments/assets/db9a027f-ff10-4d0b-b191-625565c9efac" />
 
 ---
 
