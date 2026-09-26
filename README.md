@@ -85,8 +85,7 @@ The dashboard uses a custom dark, gold-accented theme rather than Power BI's def
 
 ---
 
-## 📸 Screenshots
-More 6 Charts Here:
+## 📸 More 6 Dashboard Here:
   <img width="1057" height="477" alt="Screenshot (1964)" src="https://github.com/user-attachments/assets/c1891e0e-586f-4f70-bd7e-c45bbfbe3d4a" />
 <img width="1097" height="507" alt="Screenshot (1966)" src="https://github.com/user-attachments/assets/1bc8d2cf-461d-4099-82b2-d029cf99cc41" />
 <img width="1125" height="499" alt="Screenshot (1967)" src="https://github.com/user-attachments/assets/9cf107c0-f84b-4375-8df7-3d8b4b789f39" />
@@ -108,6 +107,8 @@ More 6 Charts Here:
 
 ## 👤 Author
 
-Built by [Anu Jangid] as a portfolio project to demonstrate Power BI dashboard design, DAX measure development, and hospitality revenue analytics.
+Built by Anu Jangid as a portfolio project to demonstrate Power BI dashboard design, DAX measure development, and hospitality revenue analytics.
 
 - LinkedIn: [(https://www.linkedin.com/in/anu-jangid-726564328/)]
+- Website: [(https://anujangid-portfolio.netlify.app/)]
+- Github : [(https://github.com/AnuTech-01)]
