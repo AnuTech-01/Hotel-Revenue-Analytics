@@ -86,22 +86,21 @@ The dashboard uses a custom dark, gold-accented theme rather than Power BI's def
 ---
 
 ## 📸 Screenshots
+More 6 Charts Here:
+  <img width="1057" height="477" alt="Screenshot (1964)" src="https://github.com/user-attachments/assets/c1891e0e-586f-4f70-bd7e-c45bbfbe3d4a" />
+<img width="1097" height="507" alt="Screenshot (1966)" src="https://github.com/user-attachments/assets/1bc8d2cf-461d-4099-82b2-d029cf99cc41" />
+<img width="1125" height="499" alt="Screenshot (1967)" src="https://github.com/user-attachments/assets/9cf107c0-f84b-4375-8df7-3d8b4b789f39" />
+<img width="1165" height="499" alt="Screenshot (1968)" src="https://github.com/user-attachments/assets/287aaf78-d488-4dfb-bcf0-616dd3a27350" />
+<img width="1016" height="440" alt="Screenshot (1969)" src="https://github.com/user-attachments/assets/16dc5953-126c-406f-9181-3551211c3bf3" />
+<img width="1155" height="576" alt="Screenshot (1970)" src="https://github.com/user-attachments/assets/13856423-52c9-43b8-ac78-a71507bd7bc1" />
 
-> Add your dashboard screenshots to a `screenshots/` folder in this repo and reference them here, e.g.:
-
-```
-screenshots/
-  dashboard-preview.png
-  revenue-trend-tooltip.png
-  property-detail-table.png
-```
 
 ---
 
 ## 🚀 How to Use
 
 1. Clone or download this repository
-2. Open `hotel_rev_dashboard.pbix` in Power BI Desktop
+2. Open `hotel_rev_dashboard_project.pbix` in Power BI Desktop
 3. If prompted, update the data source connection to your own dataset
 4. Use the filters (City, Category, Rooms, Date) to explore performance across different slices
 
