@@ -49,3 +49,5 @@ FOREIGN KEY (check_in_date) REFERENCES dim_date(date);
 ALTER TABLE fact_aggregated_bookings 
 ADD CONSTRAINT fk_agg_room 
 FOREIGN KEY (room_category) REFERENCES dim_rooms(room_id);
+
+
